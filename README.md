@@ -124,11 +124,14 @@ The dataset of 1,221 anonymized Persian palliative care transcripts and their ma
 If you use this code or dataset in your research, please cite:
 
 ```bibtex
-@article{ghaffarzadeh2025slm,
-  title   = {Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages},
-  author  = {Ghaffarzadeh-Esfahani, Mohammadreza and Yousefian, Nahid and Heidari-Farsani, Ebrahim and Omidvarian, Ali Akbar and Ghahraei, Sepehr and Farangi, Atena and Boroumand, AmirBahador},
-  journal = {arXiv preprint arXiv:2508.18579},
-  year    = {2025}
+@misc{ghaffarzadehesfahani2026smalllanguagemodelsprivacypreserving,
+      title={Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages}, 
+      author={Mohammadreza Ghaffarzadeh-Esfahani and Nahid Yousefian and Ebrahim Heidari-Farsani and Ali Akbar Omidvarian and Sepehr Ghahraei and Atena Farangi and AmirBahador Boroumand},
+      year={2026},
+      eprint={2602.21374},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.21374}, 
 }
 ```
 
