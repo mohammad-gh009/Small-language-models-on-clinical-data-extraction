@@ -7,8 +7,8 @@
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
   </a>
-  <a href="https://arxiv.org/abs/2508.18579">
-    <img src="https://img.shields.io/badge/arXiv-2508.18579-b31b1b.svg" alt="arXiv">
+  <a href="https://arxiv.org/abs/2602.21374">
+    <img src="https://img.shields.io/badge/arXiv-2602.21374-b31b1b.svg" alt="arXiv">
   </a>
 </p>
 
